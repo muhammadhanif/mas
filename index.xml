@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MAS</title>
+        <link>https://mas.hanifmu.com/</link>
+        <description>Informasi harga emas dan perak dunia terbaru hari ini.</description> 
+        <atom:link href="https://mas.hanifmu.com/index.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Harga Emas Dunia</title>
+            <link>https://mas.hanifmu.com/harga-emas/</link>
+            <guid>https://mas.hanifmu.com/harga-emas/</guid>
+            <description><p>Informasi harga emas dunia terbaru hari ini.</p></description>
+        </item>
+        <item>
+            <title>Harga Perak Dunia</title>
+            <link>https://mas.hanifmu.com/harga-perak/</link>
+            <guid>https://mas.hanifmu.com/harga-perak/</guid>
+            <description><p>Informasi harga perak dunia terbaru hari ini.</p></description>
+        </item>
+        
+    </channel>
+</rss>
